@@ -1,0 +1,85 @@
+.calCalendar
+{
+    FONT-SIZE: 85%;
+    FONT-FAMILY: 'Verdana';
+    BACKGROUND-COLOR: #d4d0c8
+}
+.calClickable
+{
+    BORDER-RIGHT: #d4d0c8 2px solid;
+    BORDER-TOP: #d4d0c8 2px solid;
+    FONT-SIZE: 85%;
+    BORDER-LEFT: #d4d0c8 2px solid;
+    WIDTH: 15px;
+    CURSOR: hand;
+    COLOR: #0a246a;
+    BORDER-BOTTOM: #d4d0c8 2px solid;
+    TEXT-DECORATION: none
+}
+.calClickable_hover
+{
+    BORDER-RIGHT: #dddddd 2px outset;
+    BORDER-TOP: #dddddd 2px outset;
+    FONT-WEIGHT: bolder;
+    FONT-SIZE: 85%;
+    BORDER-LEFT: #dddddd 2px outset;
+    WIDTH: 15px;
+    CURSOR: hand;
+    COLOR: #0a246a;
+    BORDER-BOTTOM: #dddddd 2px outset
+}
+.calNow
+{
+    BORDER-RIGHT: #00AA00 2px solid;
+    BORDER-TOP: #00AA00 2px solid;
+    FONT-SIZE: 85%;
+    BORDER-LEFT: #00AA00 2px solid;
+    WIDTH: 15px;
+    CURSOR: hand;
+    COLOR: #0a246a;
+    BORDER-BOTTOM: #00AA00 2px solid;
+    TEXT-DECORATION: none
+}
+TR.calMonthsheader
+{
+    FONT-WEIGHT: bolder;
+    COLOR: #000000;
+    BACKGROUND-COLOR: #d4d0c8
+}
+TD.calMonthsheader
+{
+    FONT-WEIGHT: bolder;
+    FONT-SIZE: 80%;
+    COLOR: #000000;
+    BACKGROUND-COLOR: #d4d0c8
+}
+.calTitleBar
+{
+    FONT-WEIGHT: bolder;
+    COLOR: #ffffff;
+    BACKGROUND-COLOR: #3a6ea5
+}
+.calBooked
+{
+    BORDER-RIGHT: #FFFFFF 1px solid;
+    BORDER-TOP: #FFFFFF 1px solid;
+    FONT-SIZE: 85%;
+    BORDER-LEFT: #FFFFFF 1px solid;
+    WIDTH: 15px;
+    CURSOR: none;
+    COLOR: #FFFFFF;
+    BORDER-BOTTOM: #FFFFFF 1px solid;
+    TEXT-DECORATION: none
+}
+.calBookedNow
+{
+    BORDER-RIGHT: #00AA00 1px solid;
+    BORDER-TOP: #00AA00 1px solid;
+    FONT-SIZE: 85%;
+    BORDER-LEFT: #00AA00 1px solid;
+    WIDTH: 15px;
+    CURSOR: none;
+    COLOR: #FFFFFF;
+    BORDER-BOTTOM: #00AA00 1px solid;
+    TEXT-DECORATION: none
+}

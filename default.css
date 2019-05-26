@@ -1,0 +1,240 @@
+BODY
+{
+    FONT-SIZE: 10pt;
+    COLOR: #000000;
+    FONT-FAMILY: Arial, Verdana;
+    BACKGROUND-COLOR: #ffffff
+}
+A.HeadLink
+{
+    COLOR: #ffffff;
+    FONT-FAMILY: Arial, Verdana;
+    TEXT-DECORATION: none
+}
+A.HeadLink:hover
+{
+    COLOR: #ffffff;
+    FONT-FAMILY: Arial, Verdana;
+    TEXT-DECORATION: underline
+}
+A
+{
+    COLOR: blue;
+    FONT-FAMILY: Arial, Verdana;
+    TEXT-DECORATION: none
+}
+HeadLink
+{
+    COLOR: #ffffff;
+    FONT-FAMILY: Arial, Verdana;
+    TEXT-DECORATION: none
+}
+TABLE.Normal
+{
+    BORDER-RIGHT: medium none;
+    BORDER-TOP: medium none;
+    FONT-SIZE: 9.5pt;
+    BORDER-LEFT: medium none;
+    WIDTH: 680px;
+    COLOR: black;
+    BORDER-BOTTOM: medium none;
+    FONT-FAMILY: Arial, Verdana
+}
+TABLE.Inout
+{
+    FONT-SIZE: 10pt;
+    WIDTH: 500px;
+    FONT-FAMILY: Arial, Verdana;
+    BORDER-COLLAPSE: collapse
+}
+TABLE.InoutWide
+{
+    FONT-SIZE: 10pt;
+    WIDTH: 620px;
+    FONT-FAMILY: Arial, Verdana;
+    BORDER-COLLAPSE: collapse
+}
+.info
+{
+    FONT-FAMILY: Arial, Verdana
+}
+TR
+{
+    FONT-SIZE: 9.5pt;
+    COLOR: black;
+    FONT-FAMILY: Arial, Verdana;
+    HEIGHT: 28px
+}
+A:hover
+{
+    COLOR: #ff3300;
+    FONT-FAMILY: Arial, Verdana
+}
+SELECT
+{
+    FONT-SIZE: 9.5pt;
+    COLOR: black;
+    FONT-FAMILY: Arial, Verdana
+}
+TEXTAREA
+{
+    FONT-SIZE: 9.5pt;
+    COLOR: black;
+    FONT-FAMILY: Arial, Verdana
+}
+INPUT
+{
+    FONT-SIZE: 9.5pt;
+    COLOR: black;
+    FONT-FAMILY: Arial, Verdana
+}
+TR.ColumnHeading
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 9.5pt;
+    COLOR: black;
+    FONT-FAMILY: Arial, Verdana;
+    BACKGROUND-COLOR: slategray
+}
+TD.LeftColumn
+{
+    BORDER-RIGHT: 1px solid;
+    BORDER-TOP: medium none;
+    BORDER-LEFT: medium none;
+    BORDER-BOTTOM: 1px solid;
+    FONT-FAMILY: Arial, Verdana
+}
+TD.RightColumn
+{
+    BORDER-RIGHT: medium none;
+    BORDER-TOP: medium none;
+    BORDER-LEFT: 1px;
+    BORDER-BOTTOM: 1px solid;
+    FONT-FAMILY: Arial, Verdana
+}
+TD.lhd_Required
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 9.5pt;
+    FONT-FAMILY: Arial, Verdana
+}
+TR.lhd_Body
+{
+    FONT-SIZE: 9.5pt;
+    COLOR: black;
+    FONT-FAMILY: Arial, Verdana;
+    HEIGHT: 27px;
+    BACKGROUND-COLOR: white
+}
+TR.lhd_Heading1
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 15pt;
+    COLOR: white;
+    FONT-FAMILY: Arial, Verdana;
+    BACKGROUND-COLOR: #333333;
+    TEXT-ALIGN: center
+}
+TR.lhd_Heading2
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12pt;
+    COLOR: gray;
+    FONT-FAMILY: Arial, Verdana
+}
+TABLE.lhd_Box
+{
+    BORDER-RIGHT: gray 1pt solid;
+    BORDER-TOP: gray 1pt solid;
+    FONT-SIZE: 9.5pt;
+    BORDER-LEFT: gray 1pt solid;
+    WIDTH: 100%;
+    COLOR: black;
+    BORDER-BOTTOM: gray 1pt solid;
+    FONT-FAMILY: Arial, Verdana;
+    BACKGROUND-COLOR: white
+}
+TR.lhd_TableRow_Odd
+{
+    FONT-SIZE: 9pt;
+    FONT-FAMILY: Arial, Verdana;
+    BACKGROUND-COLOR: white
+}
+TR.lhd_TableRow_Even
+{
+    FONT-SIZE: 9pt;
+    FONT-FAMILY: Arial, Verdana;
+    BACKGROUND-COLOR: #ebebeb
+}
+TD.lhd_CellBorderBottom
+{
+    BORDER-RIGHT: black 1px;
+    BORDER-TOP: black 1px;
+    BORDER-LEFT: black 1px;
+    BORDER-BOTTOM: black 1px solid;
+    FONT-FAMILY: Arial, Verdana
+}
+TABLE.lhd_Table_Normal
+{
+    FONT-SIZE: 9.5pt;
+    WIDTH: 100%;
+    FONT-FAMILY: Arial, Verdana
+}
+TH
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 9.5pt;
+    COLOR: black;
+    BORDER-BOTTOM: black 1px solid;
+    FONT-FAMILY: Arial, Verdana;
+    BACKGROUND-COLOR: steelblue
+}
+TABLE.inout
+{
+    width: 100%;
+    text-align: center;
+    margin: 0pt;
+    padding: 0pt;
+    border: 0pt;
+    border-style: none;
+}
+TR.inoutHeading
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 9.5pt;
+    COLOR: black;
+    FONT-FAMILY: Arial, Verdana;
+    BACKGROUND-COLOR: slategray;
+    margin: 0pt;
+    padding: 0pt;
+    border: 0pt;
+    border-style: none;
+}
+TR.inout_TableRow_Odd
+{
+    FONT-SIZE: 9pt;
+    HEIGHT: 10px;
+    BACKGROUND-COLOR: white;
+}
+TR.inout_TableRow_Even
+{
+    FONT-SIZE: 9pt;
+    HEIGHT: 10px;
+    BACKGROUND-COLOR: #ebebeb;
+}
+TD.inoutLeftColumn
+{
+    BORDER-RIGHT: none;
+    BORDER-TOP: none;
+    BORDER-LEFT: none;
+    BORDER-BOTTOM: none;
+    FONT-FAMILY: Arial, Verdana
+}
+TD.inoutRightColumn
+{
+    BORDER-RIGHT: none;
+    BORDER-TOP: none;
+    BORDER-LEFT: none;
+    BORDER-BOTTOM: none;
+    FONT-FAMILY: Arial, Verdana
+}
